@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sarkari Result - Clone</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>SARKARI RESULT</h1>
+    <p>WWW.SARKARIRESULT.COM</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Latest Jobs</a>
+    <a href="#">Results</a>
+    <a href="#">Admit Card</a>
+    <a href="#">Syllabus</a>
+    <a href="#">Answer Key</a>jmn3
+    <a href="#">Contact Us</a>
+  </nav>
+
+  <main>
+    <section class="main-content">
+      <h2>Latest Notifications</h2>
+      <ul>
+        <li><a href="#">UPSC Civil Services Pre Exam 2025 Apply Online</a></li>
+        <li><a href="#">SSC CHSL 2025 Tier I Result</a></li>
+        <li><a href="#">Railway Group D PET Admit Card</a></li>
+        <li><a href="#">UP Police Constable Final Result 2025</a></li>
+      </ul>
+    </section>
+
+    <aside class="sidebar">
+      <h2>Quick Links</h2>
+      <ul>
+        <li><a href="#">UPSC Jobs</a></li>
+        <li><a href="#">SSC Jobs</a></li>
+        <li><a href="#">Bank Jobs</a></li>
+        <li><a href="#">Railway Jobs</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Sarkari Result Clone. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
